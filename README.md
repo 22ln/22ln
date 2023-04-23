@@ -1,5 +1,4 @@
 Hi there,
-
 Skills:
 <p> •JS
 <p> •HTML
