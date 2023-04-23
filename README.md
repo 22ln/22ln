@@ -1,9 +1,9 @@
 Hi there,
 
 Skills:
-•JS
-•HTML
-•CSS
+<p> •JS
+<p> •HTML
+<p> •CSS
 
 - 🔭 trying to do better
 
